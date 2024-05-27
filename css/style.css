@@ -98,7 +98,10 @@
     top: 0;
     left: 0;
 }
-
+.navbar-toggler{
+    box-shadow: none;
+    border: none;
+}
 .navbar .navbar-nav .nav-link {
     margin-right: 35px;
     padding: 25px 0;
